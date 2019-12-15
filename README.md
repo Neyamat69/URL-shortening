@@ -1,4 +1,2 @@
-References:
-1. https://github.com/fxmauricard/aspnetcore-url-shortener
-2. https://stackoverflow.com/questions/742013/how-to-code-a-url-shortener
+This is a URL shortening service like tinyurl.com or bit.ly. The application is developed using Asp.net core.
 
